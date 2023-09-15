@@ -1,0 +1,9 @@
+node_modules
+dist
+Grids
+
+0PluginLibrary.plugin.js
+Grids.config.json
+package-lock.json
+package.json
+ZeresPluginLibrary.config.json
